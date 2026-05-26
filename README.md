@@ -1,4 +1,4 @@
-# 🌌 Scientific Universe Map - Interactive 3D WebGL Atlas
+# Scientific Universe Map - Interactive 3D WebGL Atlas
 
 **An entry for the Instructables Maps Contest!**
 
@@ -10,7 +10,7 @@ Whether you're exploring the neighborhood of the Milky Way or gazing at quasars 
 
 ---
 
-## 🧭 Why a Universe Map?
+## Why a Universe Map?
 
 Maps are traditionally 2D representations of a planet's surface. But as our ability to observe the universe expands, our maps must scale into the third dimension. This project takes on the ultimate mapping challenge: charting the cosmos. 
 
@@ -18,7 +18,7 @@ The beauty of this project lies in its **scientific accuracy**. The renderer doe
 
 ---
 
-## 🛠️ Step 1: The Tech Stack & Tools
+## Step 1: The Tech Stack & Tools
 
 To build a universe in a browser, we need the right tools:
 
@@ -29,7 +29,7 @@ To build a universe in a browser, we need the right tools:
 
 ---
 
-## 🛰️ Step 2: Gathering the Scientific Data
+## Step 2: Gathering the Scientific Data
 
 A map is only as good as its data. We don't hardcode coordinates; instead, our local server proxies data from these live astrophysics databases:
 
@@ -41,7 +41,7 @@ A map is only as good as its data. We don't hardcode coordinates; instead, our l
 
 ---
 
-## 📐 Step 3: The Math - Turning Data into 3D Space
+## Step 3: The Math - Turning Data into 3D Space
 
 Plotting coordinates on a sphere is one thing, but mapping the universe requires some heavy lifting. To create an accurate and beautiful 3D representation, this project relies on a variety of mathematical transformations.
 
@@ -72,7 +72,7 @@ Not all data catalogs provide a neat color value for stars. When Gaia only provi
 
 ---
 
-## 🚀 Step 4: Running the Map Locally
+## Step 4: Running the Map Locally
 
 Want to explore the map yourself or modify the code? It's incredibly easy to run.
 
@@ -100,7 +100,7 @@ npm start
 
 ---
 
-## 🔮 Step 5: Future Plans & Roadmap
+## Step 5: Future Plans & Roadmap
 
 A map of the universe is never truly finished. Here are some exciting features planned for future updates:
 
@@ -111,8 +111,8 @@ A map of the universe is never truly finished. Here are some exciting features p
 
 ---
 
-## 🏆 Instructables Maps Contest
+## Instructables Maps Contest
 
 This project was built and documented with the **Instructables Maps Contest** in mind! It pushes the boundary of what a "map" can be—transitioning from earthly topography to galactic cartography. I hope this project inspires you to build your own data-driven visualizations and to never stop exploring.
 
-**If you enjoyed this project, please consider voting for it in the Maps Contest!** 🌍✨
+**If you enjoyed this project, please consider voting for it in the Maps Contest!**
